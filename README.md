@@ -20,6 +20,6 @@ npm run dev
 ```
 
 # 运行效果
-![效果图]()
+![效果图](https://github.com/BB-Code/vue_todo_app/blob/master/GIF.gif)
 
 
