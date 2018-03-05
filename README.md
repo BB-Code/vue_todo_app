@@ -1,11 +1,13 @@
 # vue_todo_app
-使用Vuejs 做的TODO 案例
+![](https://img.shields.io/badge/vue-2.5.2-green.svg)
 
-## 安装
+## 获取
 
 ```
 git clone https://github.com/BB-Code/vue_todo_app.git
 ```
+
+## 安装
 
 ``` bash
 
