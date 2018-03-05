@@ -1,5 +1,6 @@
 # vue_todo_app
-![](https://img.shields.io/badge/vue-2.5.2-green.svg)
+![](https://img.shields.io/badge/vue-2.x-green.svg)
+
 
 ## 获取
 
