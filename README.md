@@ -1,6 +1,8 @@
 # vue_todo_app
+
 ![](https://img.shields.io/badge/vue-2.x-green.svg)
 
+## :star: 欢迎 Star
 
 ## 获取
 
@@ -22,7 +24,7 @@ npm run dev
 
 ```
 
-# 运行效果
+## 效果
 ![效果图](https://github.com/BB-Code/vue_todo_app/blob/master/GIF.gif)
 
 
