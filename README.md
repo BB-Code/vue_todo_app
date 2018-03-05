@@ -1,5 +1,7 @@
 # vue_todo_app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bd23323668094184aaee8a22cf085434)](https://app.codacy.com/app/15919854639/vue_todo_app?utm_source=github.com&utm_medium=referral&utm_content=BB-Code/vue_todo_app&utm_campaign=badger)
+
 ![](https://img.shields.io/badge/vue-2.x-green.svg)
 
 ## :star: 欢迎 Star
